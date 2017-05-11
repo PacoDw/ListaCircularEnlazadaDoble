@@ -1,0 +1,9 @@
+c:\users\packo\documents\visual studio 2017\Projects\ListaCircularEnlazadaDoble\ListaCircularEnlazadaDoble\bin\Debug\ListaCircularEnlazadaDoble.exe.config
+c:\users\packo\documents\visual studio 2017\Projects\ListaCircularEnlazadaDoble\ListaCircularEnlazadaDoble\bin\Debug\ListaCircularEnlazadaDoble.exe
+c:\users\packo\documents\visual studio 2017\Projects\ListaCircularEnlazadaDoble\ListaCircularEnlazadaDoble\bin\Debug\ListaCircularEnlazadaDoble.pdb
+c:\users\packo\documents\visual studio 2017\Projects\ListaCircularEnlazadaDoble\ListaCircularEnlazadaDoble\obj\Debug\ListaCircularEnlazadaDoble.csprojResolveAssemblyReference.cache
+c:\users\packo\documents\visual studio 2017\Projects\ListaCircularEnlazadaDoble\ListaCircularEnlazadaDoble\obj\Debug\ListaCircularEnlazadaDoble.FormMain.resources
+c:\users\packo\documents\visual studio 2017\Projects\ListaCircularEnlazadaDoble\ListaCircularEnlazadaDoble\obj\Debug\ListaCircularEnlazadaDoble.Properties.Resources.resources
+c:\users\packo\documents\visual studio 2017\Projects\ListaCircularEnlazadaDoble\ListaCircularEnlazadaDoble\obj\Debug\ListaCircularEnlazadaDoble.csproj.GenerateResource.Cache
+c:\users\packo\documents\visual studio 2017\Projects\ListaCircularEnlazadaDoble\ListaCircularEnlazadaDoble\obj\Debug\ListaCircularEnlazadaDoble.exe
+c:\users\packo\documents\visual studio 2017\Projects\ListaCircularEnlazadaDoble\ListaCircularEnlazadaDoble\obj\Debug\ListaCircularEnlazadaDoble.pdb
